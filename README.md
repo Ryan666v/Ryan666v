@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Ryan
+
+## 🚀 About Me
+- 🔭 Fullstack Developer
+- 🌱 Learning React & Django
+
+---
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-blue)
+![Django](https://img.shields.io/badge/Django-green)
+
+---
+
+## 📊 Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Ryan666v&show_icons=true)
-<!--
-**Ryan666v/Ryan666v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
