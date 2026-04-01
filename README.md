@@ -13,4 +13,4 @@
 ---
 
 ## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Ryan666v&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan666v&show_icons=true&theme=tokyonight&cache_seconds=1800&count_private=true)
